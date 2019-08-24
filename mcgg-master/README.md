@@ -1,4 +1,4 @@
-Translated to English & Updated by Ren232.
+
 
 <h1> Features </h1>
 - You can access the file manager of the server.<br>
